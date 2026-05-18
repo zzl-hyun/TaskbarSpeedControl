@@ -1,0 +1,86 @@
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Build artifacts
+bin/
+obj/
+x64/
+x86/
+Debug/
+Release/
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ipdb
+*.iobj
+*.iexp
+
+# Visual Studio user files
+*.user
+*.suo
+*.vcxproj.user
+*.csproj.user
+
+# .NET / NuGet
+*.nuget.props
+*.nuget.targets
+.nuget/
+packages/
+.dotnet/
+
+# Build logs
+*.log
+*.tlog
+
+# Build caches
+*.cache
+*.jfm
+
+# Application data (local, not tracked)
+%APPDATA%/TaskbarAutoHideSpeed/
+$APPDATA/TaskbarAutoHideSpeed/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Editor backups
+*.swp
+*.swo
+*~
+.#*
+
+# TestResults
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+.coverage/
+
+# Build intermediate
+TaskbarA.*/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# IDE
+.vs/
+.vscode/
+*.code-workspace
+
+# Python (if used for scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
