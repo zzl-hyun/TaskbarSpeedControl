@@ -264,3 +264,4 @@ Get-Process TaskbarAutoHideSpeed | Select-Object WorkingSet
 
 **마지막 업데이트:** May 18, 2026  
 **호환성:** Windows 10/11 x64
+
